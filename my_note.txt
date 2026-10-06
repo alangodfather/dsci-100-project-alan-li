@@ -1,3 +1,5 @@
 My notepad for any ideas and thoughts.
 
 https://github.com/alangodfather/dsci-100-project-alan-li.git
+
+testing
